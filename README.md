@@ -1,6 +1,4 @@
-# Machine_Learning
-
-# Machine Learning Projects Repository
+# Machine Learning Repository
 
 This repository contains a collection of machine learning projects and implementations of various ML models.
 Each project focuses on solving specific problems or exploring different ML techniques. 
@@ -15,6 +13,14 @@ ranging from computer vision and natural language processing to predictive model
 4. Mine Rock DetectionLab
 5. Movie Recommendation System
 6. Spam Mail Detection
+
+
+# Machine Learning Models 
+1. Lasso Regression Model
+2. Linear Regression Model
+3. Support Vector Machine
+4. Model Selection for Models
+5. Logistic Regression
 
 
 # Contributing
