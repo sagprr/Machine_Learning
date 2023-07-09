@@ -9,8 +9,6 @@ Accurate prediction models for diabetes, Parkinson's disease, and heart disease.
 Interactive web-based interface powered by Streamlit.
 Integration with Spyder IDE for data exploration and model development.
 Preprocessing and feature engineering using Scikit-learn and Pandas.
-Deep learning models implemented with TensorFlow and Keras.
-Informative visualizations created with Matplotlib and Seaborn.
 
 # Installation
 Clone the repository to your local machine:
