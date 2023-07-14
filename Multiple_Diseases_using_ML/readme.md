@@ -30,3 +30,5 @@ Commit your changes and push them to your forked repository.
 
 Submit a pull request, clearly describing the changes you have made.
 
+
+<img width="1111" alt="Screenshot 2023-07-14 at 18 24 53" src="https://github.com/sagprr/Machine_Learning/assets/113618122/71d14eec-6621-4cde-a3c3-928585ff36f2">
