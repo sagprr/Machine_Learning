@@ -12,7 +12,7 @@ Preprocessing and feature engineering using Scikit-learn and Pandas.
 
 # Installation
 Clone the repository to your local machine:
-git clone https://github.com/sagprr/machine-learning-disease-prediction.git
+git clone https://github.com/sagprr/machine_learning/Multiple_Diseases_using_ML.git
 
 # Contributing
 
