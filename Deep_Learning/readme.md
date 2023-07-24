@@ -9,3 +9,6 @@ Python 3.x
 OpenCV (cv2) library
 Matplotlib library
 
+
+If your project uses code or ideas from other projects, libraries, or resources, acknowledge them here. You can also thank contributors or other people who helped you during the development process.
+
