@@ -5,6 +5,8 @@ This Git repository contains various machine learning model projects developed f
 
 ## Car Price Prediction
 The Car Price Prediction project aims to predict the price of used cars based on various features such as the car's brand, model, mileage, year of manufacture, and other relevant factors. The project utilizes regression algorithms to create a predictive model.
+Once the installation is complete, you can use the Car Price Prediction tool to make price predictions for used cars.
+
 
 ##  Credit Card Fraud Detection
 The Credit Card Fraud Detection project focuses on identifying fraudulent credit card transactions. The model is trained on a dataset containing a mixture of legitimate and fraudulent transactions. Classification algorithms are employed to distinguish between legitimate and fraudulent activities, providing an effective fraud detection mechanism.
