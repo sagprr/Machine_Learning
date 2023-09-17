@@ -3,6 +3,10 @@ This GitHub repository contains a machine learning solution for predicting three
 The solution is built using Python and leverages various ML libraries and technologies.
 
 
+Video Link of Working Project : https://youtu.be/Q7kKNASXQTE
+
+
+
 # Features
 
 Accurate prediction models for diabetes, Parkinson's disease, and heart disease.
